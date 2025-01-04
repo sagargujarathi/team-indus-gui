@@ -6,7 +6,7 @@ Work in progress!!!!!
 
 ### FOLLOW THE COMMANDS
 
-1. DOWNLOAD NVM USING (THIS LINK)[https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe].
+1. DOWNLOAD NVM USING [THIS LINK](https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe).
 2. OPEN CMD.
 3. `nvm install lts`
 4. `nvm use lts`
